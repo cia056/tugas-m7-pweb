@@ -1,0 +1,20 @@
+.nav-link{
+	font-family: impact;
+	font-size: 24px;
+	text-transform: uppercase;
+	margin-right: 30px;
+}
+.nav-link:hover{
+	color: rgb(182,215,243);
+}
+.jumbroton{
+	background-image: url(https://tse4.mm.bing.net/th?id=OIP.q4CBo0fSC1HVNiONUXfDNwHaDr&pid=Api&P=0&h=180);
+	background-size: cover;
+	height: 30px;
+}
+.@media (min-width: 992px){
+	font-family: impact;
+	font-size:24px;
+	text-transform:uppercase;
+	margin-right:30px;
+}
